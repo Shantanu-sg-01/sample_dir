@@ -1,0 +1,2 @@
+bye
+hello is added to git using:> git add hello.txt 
